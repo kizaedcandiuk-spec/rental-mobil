@@ -54,7 +54,7 @@
         }
 
         .btn-login {
-            background: #c084fc;
+            background: #2bff00;
             color: #0f0c29;
             font-weight: 700;
             border: none;
