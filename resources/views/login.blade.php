@@ -12,7 +12,7 @@
         body {
             background-color: #0f0c29 !important;
             background-image: 
-                radial-gradient(at 0% 0%, rgba(192, 132, 252, 0.25) 0px, transparent 50%), 
+                radial-gradient(at 0% 0%, rgba(0, 68, 255, 0.25) 0px, transparent 50%), 
                 radial-gradient(at 100% 100%, rgba(59, 130, 246, 0.2) 0px, transparent 50%),
                 linear-gradient(135deg, #050515 0%, #100b26 40%, #1a103c 100%) !important;
             background-attachment: fixed;
